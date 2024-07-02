@@ -1,0 +1,25 @@
+{
+  "name": "fu-svg-icon",
+  "version": "0.0.1",
+  "description": "SVG icon library based on Vue",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weijunfu/fu-svg-icon.git"
+  },
+  "keywords": [
+    "vue",
+    "svg",
+    "icon",
+    "plugin"
+  ],
+  "author": "ijunfu <ijunfu@163.com> (https://weijunfu.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weijunfu/fu-svg-icon/issues"
+  },
+  "homepage": "https://github.com/weijunfu/fu-svg-icon#readme"
+}
